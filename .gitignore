@@ -194,6 +194,9 @@ cython_debug/
 # vscode settings
 .vscode/
 
+# PKL files
+*.pkl
+
 # PyPI configuration file
 .pypirc
 
